@@ -1,7 +1,10 @@
 const CONFIG = {
     titleWeb: "Cái này là dành cho Tèo ngoo",
     introTitle: 'Thanh Trúc ngooooooo',
-    introDesc: `Anh yêu em`,
+    introDesc: `Tôi như là con kiến
+Trong thủ đô vội vàng
+1000 năm văn hiến
+1000 năm yêu nàng`,
     btnIntro: 'Anh có điều muốn nói với em đây',
     title: 'Cảm ơn em đã đồng ý cho anh cơ hội sửa chữa',
     desc: 'Mình cùng xây dựng lại từ đầu em nhé :3 ',
