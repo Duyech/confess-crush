@@ -16,5 +16,5 @@ Trong thủ đô vội vàng
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiềuuu 😘😘',
     messDesc: 'Chờ gì nữa nhắn tin cho anh điiiiii',
     btnAccept: 'Okiiiii chồng iuuuu <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.https://www.facebook.com/messages/t/100053278085573
+    messLink: 'https://www.https://www.https://www.facebook.com/messages/t/100053278085573' //link mess của các bạn. VD: https://www.https://www.https://www.facebook.com/messages/t/100053278085573
 }
