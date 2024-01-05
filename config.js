@@ -1,20 +1,24 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Cái này là dành cho Tèo ngoo",
+    introTitle: 'Thanh Trúc ngooooooo',
+    introDesc: `Em hỏi:
+    Tình yêu là gì nhỉ
+    Và mỉm cười thật xinh
+    Nhẹ nhàng tôi thủ thỉ 
+    "Tình yêu là chúng mình".`,
+    btnIntro: 'Anh là người lớn
+        phải nhường em thơ
+        Nhưng tình còn thiếu
+        nên nhờ em thương.',
+    title: 'Cảm ơn em đã đồng ý cho anh cơ hội sửa chữa',
+    desc: 'Mình cùng xây dựng lại từ đầu em nhé :3 ',
+    btnYes: 'Em đồng ý',
+    btnNo: 'ĐÉO!!!',
+    question: 'Anh yêu Tèo lắm, em cóa đồng ý làm vợ anh khôngggg? Nói điêu làm con chố !!',
+    btnReply: 'Gửi cho anhhh',
+    reply: 'Có ạ, em yêu qduy nhất ^^!',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiềuuu 😘😘',
+    messDesc: 'Chờ gì nữa nhắn tin cho anh điiiiii',
+    btnAccept: 'Okiiiii chồng iuuuu <3',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.https://www.facebook.com/messages/t/100053278085573
 }
